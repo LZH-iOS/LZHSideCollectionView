@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DCB58E7C-7B26-4B7E-8AB0-31FDE798684F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LZHSideCollectionView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9933F06A4E09914D994762BEC9555306146A8097</key>
+		<string>https://github.com/LZH-iOS/LZHSideCollectionView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LZHSideCollectionView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9933F06A4E09914D994762BEC9555306146A8097</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/LZH-iOS/LZHSideCollectionView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9933F06A4E09914D994762BEC9555306146A8097</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9933F06A4E09914D994762BEC9555306146A8097</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LZHSideCollectionView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
